@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HzTtXTQiuptayZJKKdksllIYzoZD/33m6p04sny3TcQKeZd/6sgnklWWGJRgUCWh6FK7vane9TpLml0MeY+JhQ==",
+  "success": true,
+  "projectFilePath": "D:\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Klemen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
